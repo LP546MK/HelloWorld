@@ -18,7 +18,7 @@ public class mkay {
     int result= R1+R2;
     float parallel_circuit =1/R1 + 1/R2;
     float result = 1/R1 + 1/R2;
-    System.out.println("float result for series =" + (R1+R2));
+    System.out.println("float result for series =" + (R1+R2);
     System.out.println("float result for parallel="  + result );
     int Rm= R.nextInt();
 	}
